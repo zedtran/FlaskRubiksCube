@@ -1,8 +1,6 @@
-# Fall2018SoftwareProcess
-Fall 2018 Software Process assignments ... rubic's cube
+# Flask Microservice Rubik's Cube 
 
-This project is the starter code for the assignments in the 2018 Spring Semester offering
-of COMP5700/6700/6706  Software Process.
+![alt text](https://github.com/zedtran/FlaskRubiksCube/blob/master/RCube/Images/Screen%20Shot%202018-12-10%20at%203.32.50%20PM.png)
 
 Notes:
 1)  Pull this code to GitHub Classroom
@@ -19,4 +17,4 @@ Notes:
 5)  Place your test code in the "test" directory
 
 
-# rcube-flask
+
